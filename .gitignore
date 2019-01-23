@@ -1,0 +1,4 @@
+#git ignore file
+*txt
+!file2.c
+
