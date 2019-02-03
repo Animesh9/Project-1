@@ -1,4 +1,3 @@
-#git ignore file
-*txt
-!file2.c
-
+#git ignore
+*.txt
+this is a line
