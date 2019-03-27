@@ -17,7 +17,6 @@ int main()
         cin >> a[i][j];
     }
 
-    // Displaying the matrix a[][]
     cout << endl << "Entered Matrix: " << endl;
     for(i = 0; i < r; ++i)
         for(j = 0; j < c; ++j)
